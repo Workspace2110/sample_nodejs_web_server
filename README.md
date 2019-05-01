@@ -1,1 +1,1 @@
-# sample_nodejs_web_server
+# Sample Node.js Web Server
